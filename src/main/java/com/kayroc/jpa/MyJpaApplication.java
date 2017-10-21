@@ -1,4 +1,4 @@
-package com;
+package com.kayroc.jpa;
 
 import com.kayroc.jpa.model.Student;
 import com.kayroc.jpa.model.StudentSubject;
